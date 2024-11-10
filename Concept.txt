@@ -1,3 +1,0 @@
-Dive: Front, Side, Back
-Prone: Crawl XYZ
-Prone Back: Crawl XYZ
