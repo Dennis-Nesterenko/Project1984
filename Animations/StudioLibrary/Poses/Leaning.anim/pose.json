@@ -1,0 +1,3153 @@
+{
+  "metadata": {
+    "timeUnit": "ntsc",
+    "linearUnit": "cm",
+    "angularUnit": "deg",
+    "description": "",
+    "endFrame": 4,
+    "startFrame": 1,
+    "user": "Work",
+    "ctime": "1724893772",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "F:/OneDrive/Projects/Work/Wet Work/Character RIg/Soldier_Rig.mb",
+        "unresolved": "F:/OneDrive/Projects/Work/Wet Work/Character RIg/Soldier_Rig.mb",
+        "namespace": "Soldier_Rig",
+        "node": "Soldier_RigRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": "F:/OneDrive/Projects/Work/Wet Work/Animations/Actions/Leaning/LeanStanding_Set.mb"
+  }
+,
+  "objects": {
+    "Soldier_Rig_Middle1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 3.5599464855206224,
+          "curve": "CURVE1"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE2"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE3"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE4"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -5.576803110901279,
+          "curve": "CURVE5"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 58.78524630295754,
+          "curve": "CURVE6"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE7"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE8"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE9"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE10"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -13.167613620641824,
+          "curve": "CURVE12"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE13"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE14"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE15"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE16"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 55.254329960741515,
+          "curve": "CURVE17"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE18"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE19"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE20"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE21"
+        }
+      }
+    },
+    "Soldier_Rig_Index3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE23"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE24"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE25"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE26"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE27"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 46.03442731399409,
+          "curve": "CURVE28"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE29"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE30"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE31"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE32"
+        }
+      }
+    },
+    "Soldier_Rig_HandIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -171.03812378243828,
+          "curve": "CURVE34"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE35"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -74.42143813367204,
+          "curve": "CURVE36"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -45.538603375521724,
+          "curve": "CURVE37"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -142.05397546453938,
+          "curve": "CURVE38"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 25.437614639948823,
+          "curve": "CURVE39"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE40"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE41"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 70.10927204616137,
+          "curve": "CURVE42"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE43"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -7.300198484634448,
+          "curve": "CURVE45"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE46"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE47"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE48"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE49"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE50"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE51"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE52"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE53"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE54"
+        }
+      }
+    },
+    "Soldier_Rig_ShoulderIK_CTR_R": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -19.37917751152985,
+          "curve": "CURVE56"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 313.4221340847995,
+          "curve": "CURVE57"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 12.505641269694792,
+          "curve": "CURVE58"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE60"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE61"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE62"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE63"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE64"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 55.254329960741515,
+          "curve": "CURVE65"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE66"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE67"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE68"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE69"
+        }
+      }
+    },
+    "Soldier_Rig_Middle3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE71"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE72"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE73"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE74"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE75"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 59.43203890689738,
+          "curve": "CURVE76"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE77"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE78"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE79"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE80"
+        }
+      }
+    },
+    "Soldier_Rig_ObjectOptions_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE82"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 41.04664900652962
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -9.344829970084428
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE83"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE84"
+        },
+        "SpaceSwitchObject": {
+          "type": "enum",
+          "value": 1,
+          "curve": "CURVE85"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -60.45925791750951
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE86"
+        },
+        "WeaponSelection": {
+          "type": "enum",
+          "value": 5,
+          "curve": "CURVE87"
+        }
+      }
+    },
+    "Soldier_Rig_FootIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -0.63970009757636,
+          "curve": "CURVE89"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 8.671804846669113,
+          "curve": "CURVE90"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.12058193786456134,
+          "curve": "CURVE91"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -20.102521770159914,
+          "curve": "CURVE92"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 1.3389618077782932,
+          "curve": "CURVE93"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 40.62172595804453,
+          "curve": "CURVE94"
+        }
+      }
+    },
+    "Soldier_Rig_Object_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE96"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE97"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -21.826966034380547,
+          "curve": "CURVE98"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 47.65529475696645,
+          "curve": "CURVE99"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE100"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE101"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE102"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE103"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -22.491831268235156,
+          "curve": "CURVE104"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE105"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE107"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE108"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE109"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE110"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE111"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 64.62919509971604,
+          "curve": "CURVE112"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE113"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE114"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE115"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE116"
+        }
+      }
+    },
+    "Soldier_Rig_Ring3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE118"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE119"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE120"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE121"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE122"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 2.111510248561426,
+          "curve": "CURVE123"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE124"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE125"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE126"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE127"
+        }
+      }
+    },
+    "Soldier_Rig_ElbowVectorIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -60.47076626808578,
+          "curve": "CURVE129"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE130"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -40.01279429328587,
+          "curve": "CURVE131"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -30.234398622222344,
+          "curve": "CURVE132"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -156.3351901042086,
+          "curve": "CURVE133"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE134"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE135"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 39.56923393208514,
+          "curve": "CURVE136"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE137"
+        }
+      }
+    },
+    "Soldier_Rig_MiddleBase_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE139"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE140"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE141"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE142"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE143"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE144"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE145"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE146"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE147"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE148"
+        }
+      }
+    },
+    "Soldier_Rig_Spine_CTR": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 3.8689162670147668,
+          "curve": "CURVE150"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 4.77513659661399,
+          "curve": "CURVE151"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE152"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.0609517774781543,
+          "curve": "CURVE153"
+        }
+      }
+    },
+    "Soldier_Rig_Toe_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE155"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE156"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 1.2978334426879679,
+          "curve": "CURVE157"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -7.108452826738084,
+          "curve": "CURVE158"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE159"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE160"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE161"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 7.078732728957777,
+          "curve": "CURVE162"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE163"
+        }
+      }
+    },
+    "Soldier_Rig_IndexBase_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 2.511501395179152,
+          "curve": "CURVE165"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE166"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE167"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE168"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.5865259543930325,
+          "curve": "CURVE169"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 14.158085692919672,
+          "curve": "CURVE170"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE171"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE172"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE173"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE174"
+        }
+      }
+    },
+    "Soldier_Rig_Index1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 9.993024043232753,
+          "curve": "CURVE176"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE177"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE178"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE179"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE180"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE181"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE182"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE183"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE184"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE185"
+        }
+      }
+    },
+    "Soldier_Rig_ShoulderIK_CTR_L": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -15.398289565653196,
+          "curve": "CURVE187"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.413973184460872,
+          "curve": "CURVE188"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 4.2167824839431605,
+          "curve": "CURVE189"
+        }
+      }
+    },
+    "Soldier_Rig_Middle2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE191"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE192"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE193"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE194"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE195"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 59.43203890689738,
+          "curve": "CURVE196"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE197"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE198"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE199"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE200"
+        }
+      }
+    },
+    "Soldier_Rig_HandIK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -138.47394359752045,
+          "curve": "CURVE202"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE203"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 74.85599797772407,
+          "curve": "CURVE204"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -50.76961101525117,
+          "curve": "CURVE205"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 113.21686672074797,
+          "curve": "CURVE206"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -54.771788765368726,
+          "curve": "CURVE207"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE208"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE209"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 36.98440909391691,
+          "curve": "CURVE210"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE211"
+        }
+      }
+    },
+    "Soldier_Rig_MiddleBase_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 4.3621934931460915,
+          "curve": "CURVE213"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE214"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE215"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE216"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 2.496124392173299,
+          "curve": "CURVE217"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 15.108439915799485,
+          "curve": "CURVE218"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE219"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE220"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE221"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE222"
+        }
+      }
+    },
+    "Soldier_Rig_Chest_CTR": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -6.904993726405679,
+          "curve": "CURVE224"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 17.656724704031667,
+          "curve": "CURVE225"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE226"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -1.4524063338014546,
+          "curve": "CURVE227"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 22.560097982454078,
+          "curve": "CURVE229"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE230"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE231"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE232"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE233"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE234"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE235"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE236"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE237"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE238"
+        }
+      }
+    },
+    "Soldier_Rig_Ring3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE240"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE241"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE242"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE243"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE244"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 64.22443567189816,
+          "curve": "CURVE245"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE246"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE247"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE248"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE249"
+        }
+      }
+    },
+    "Soldier_Rig_RingBase_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE251"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE252"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE253"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE254"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE255"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 9.141303816991357,
+          "curve": "CURVE256"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE257"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE258"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE259"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE260"
+        }
+      }
+    },
+    "Soldier_Rig_Index2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE262"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE263"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE264"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE265"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE266"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 34.01767793801255,
+          "curve": "CURVE267"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE268"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE269"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE270"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE271"
+        }
+      }
+    },
+    "Soldier_Rig_Index1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE273"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE274"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE275"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE276"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE277"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -0.5098043975299054,
+          "curve": "CURVE278"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE279"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE280"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE281"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE282"
+        }
+      }
+    },
+    "Soldier_Rig_PinkyBase_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE284"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE285"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE286"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE287"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE288"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE289"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE290"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE291"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE292"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE293"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE295"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE296"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE297"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE298"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE299"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 38.71665960965422,
+          "curve": "CURVE300"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE301"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE302"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE303"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE304"
+        }
+      }
+    },
+    "Soldier_Rig_Pelvis_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.0166930178588591,
+          "curve": "CURVE306"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 6.534457804035209,
+          "curve": "CURVE307"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -11.959430930020838,
+          "curve": "CURVE308"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -64.73232591962538,
+          "curve": "CURVE309"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.4556974854965154,
+          "curve": "CURVE310"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE311"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 1.9306637573033705,
+          "curve": "CURVE312"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE314"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE315"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE316"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE317"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE318"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 55.254329960741515,
+          "curve": "CURVE319"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE320"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE321"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE322"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE323"
+        }
+      }
+    },
+    "Soldier_Rig_RingBase_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.3465702190059137,
+          "curve": "CURVE325"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE326"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE327"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE328"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.5570977681688413,
+          "curve": "CURVE329"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 13.381324425673165,
+          "curve": "CURVE330"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE331"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE332"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE333"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE334"
+        }
+      }
+    },
+    "Soldier_Rig_MainRoot_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE336"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.000000000000025,
+          "curve": "CURVE337"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 200.0,
+          "curve": "CURVE338"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE339"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE340"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE341"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.000000000000025,
+          "curve": "CURVE342"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE343"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE344"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.000000000000025,
+          "curve": "CURVE345"
+        }
+      }
+    },
+    "Soldier_Rig_Ring1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE347"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE348"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE349"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE350"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE351"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 55.74932834915884,
+          "curve": "CURVE352"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE353"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE354"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE355"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE356"
+        }
+      }
+    },
+    "Soldier_Rig_Head_CTR": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -13.569931714897692,
+          "curve": "CURVE358"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -32.21103424688648,
+          "curve": "CURVE359"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE360"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 28.948727454421167,
+          "curve": "CURVE361"
+        }
+      }
+    },
+    "Soldier_Rig_KneeVectorIK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE363"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE364"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 10.32455867593158,
+          "curve": "CURVE365"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 5.336870723138979,
+          "curve": "CURVE366"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE367"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE368"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE369"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE370"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -49.500397007475186,
+          "curve": "CURVE371"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE372"
+        }
+      }
+    },
+    "Soldier_Rig_ArmOptions_CTR_R": {
+      "attrs": {
+        "Relaxed": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE374"
+        },
+        "Fist": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE375"
+        },
+        "SpaceSwitchHand": {
+          "type": "enum",
+          "value": 2,
+          "curve": "CURVE376"
+        },
+        "Weapon": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE377"
+        },
+        "SpaceSwitchElbow": {
+          "type": "enum",
+          "value": 2,
+          "curve": "CURVE378"
+        }
+      }
+    },
+    "Soldier_Rig_PinkyBase_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -5.741859387072168,
+          "curve": "CURVE380"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE381"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE382"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE383"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 5.007754479387356,
+          "curve": "CURVE384"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 8.18204184019931,
+          "curve": "CURVE385"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE386"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE387"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE388"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE389"
+        }
+      }
+    },
+    "Soldier_Rig_FootOptions_CTR_L": {
+      "attrs": {
+        "SpaceSwitchLeg": {
+          "type": "enum",
+          "value": 1,
+          "curve": "CURVE391"
+        },
+        "SpaceSwitchKnee": {
+          "type": "enum",
+          "value": 0,
+          "curve": "CURVE392"
+        }
+      }
+    },
+    "Soldier_Rig_IndexBase_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE394"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE395"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE396"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE397"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE398"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE399"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE400"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE401"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE402"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE403"
+        }
+      }
+    },
+    "Soldier_Rig_Ring2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE405"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE406"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE407"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE408"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE409"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 86.79088774196627,
+          "curve": "CURVE410"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE411"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE412"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE413"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE414"
+        }
+      }
+    },
+    "Soldier_Rig_Toe_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE416"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE417"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -1.770308494567927,
+          "curve": "CURVE418"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -7.085311681031908,
+          "curve": "CURVE419"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE420"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE421"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE422"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 7.072733879089007,
+          "curve": "CURVE423"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE424"
+        }
+      }
+    },
+    "Soldier_Rig_Middle1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -17.278911921336256,
+          "curve": "CURVE426"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE427"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE428"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE429"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.2932943282256793,
+          "curve": "CURVE430"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 16.055608403691583,
+          "curve": "CURVE431"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE432"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE433"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE434"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE435"
+        }
+      }
+    },
+    "Soldier_Rig_FootIK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 14.059517899303684,
+          "curve": "CURVE437"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -6.317021559365194,
+          "curve": "CURVE438"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.1916875356441282,
+          "curve": "CURVE439"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -68.22125270065476,
+          "curve": "CURVE440"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -13.585721986198426,
+          "curve": "CURVE441"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -26.24810372267233,
+          "curve": "CURVE442"
+        }
+      }
+    },
+    "Soldier_Rig_FootOptions_CTR_R": {
+      "attrs": {
+        "SpaceSwitchLeg": {
+          "type": "enum",
+          "value": 1,
+          "curve": "CURVE444"
+        },
+        "SpaceSwitchKnee": {
+          "type": "enum",
+          "value": 0,
+          "curve": "CURVE445"
+        }
+      }
+    },
+    "Soldier_Rig_RigSettings_CTR": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE447"
+        },
+        "Feminine": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE454"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE448"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE455"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE449"
+        },
+        "Breasts": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE450"
+        },
+        "Skeleton": {
+          "type": "bool",
+          "value": false,
+          "curve": "CURVE456"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE457"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE458"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE459"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE451"
+        },
+        "Muscularity": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE452"
+        },
+        "Obese": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE460"
+        },
+        "Fingers": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE461"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE453"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE462"
+        }
+      }
+    },
+    "Soldier_Rig_ArmOptions_CTR_L": {
+      "attrs": {
+        "Relaxed": {
+          "type": "long",
+          "value": 0,
+          "curve": "CURVE464"
+        },
+        "Fist": {
+          "type": "long",
+          "value": 0,
+          "curve": "CURVE465"
+        },
+        "SpaceSwitchHand": {
+          "type": "enum",
+          "value": 2,
+          "curve": "CURVE466"
+        },
+        "Weapon": {
+          "type": "double",
+          "value": 0.0,
+          "curve": "CURVE467"
+        },
+        "SpaceSwitchElbow": {
+          "type": "enum",
+          "value": 1,
+          "curve": "CURVE468"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -1.2938453813782365,
+          "curve": "CURVE470"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE471"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE472"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE473"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.7310541669605072,
+          "curve": "CURVE474"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -3.8043746987717353,
+          "curve": "CURVE475"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE476"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE477"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE478"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE479"
+        }
+      }
+    },
+    "Soldier_Rig_FootRoll_CTR_L": {
+      "attrs": {}
+    },
+    "Soldier_Rig_Ring1_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -8.297082458589436,
+          "curve": "CURVE481"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE482"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE483"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE484"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -2.7633333906287807,
+          "curve": "CURVE485"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 40.07703957814682,
+          "curve": "CURVE486"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE487"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE488"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE489"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE490"
+        }
+      }
+    },
+    "Soldier_Rig_Neck_CTR": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 8.969821117952478,
+          "curve": "CURVE492"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 29.73085576366115,
+          "curve": "CURVE493"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE494"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -43.73641355061925,
+          "curve": "CURVE495"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 9.049703823576023,
+          "curve": "CURVE497"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE498"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE499"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE500"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE501"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE502"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE503"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE504"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE505"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE506"
+        }
+      }
+    },
+    "Soldier_Rig_KneeVectorIK_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE508"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0000000000000004,
+          "curve": "CURVE509"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": -2.5408017404988144,
+          "curve": "CURVE510"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -3.8865725115570697,
+          "curve": "CURVE511"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE512"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE513"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0000000000000002,
+          "curve": "CURVE514"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE515"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -28.504184736199335,
+          "curve": "CURVE516"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0000000000000002,
+          "curve": "CURVE517"
+        }
+      }
+    },
+    "Soldier_Rig_Hips_CTR": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE519"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE520"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE521"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE522"
+        }
+      }
+    },
+    "Soldier_Rig_Middle2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE524"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE525"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE526"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE527"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE528"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 71.50105793658031,
+          "curve": "CURVE529"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE530"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE531"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE532"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE533"
+        }
+      }
+    },
+    "Soldier_Rig_Spine_CTR2": {
+      "attrs": {
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 7.8138521404879375,
+          "curve": "CURVE535"
+        },
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 5.254700527035106,
+          "curve": "CURVE536"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE537"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": -0.7067776706289278,
+          "curve": "CURVE538"
+        }
+      }
+    },
+    "Soldier_Rig_Pinky2_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE540"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE541"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE542"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE543"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE544"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 94.60559495393049,
+          "curve": "CURVE545"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE546"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE547"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE548"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE549"
+        }
+      }
+    },
+    "Soldier_Rig_Middle3_CTR_L": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE551"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE552"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE553"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE554"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE555"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 71.50105793658031,
+          "curve": "CURVE556"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE557"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE558"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE559"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE560"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 22.560097982454078,
+          "curve": "CURVE562"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE563"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE564"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE565"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE566"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE567"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE568"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE569"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE570"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE571"
+        }
+      }
+    },
+    "Soldier_Rig_Ring2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE573"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE574"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE575"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE576"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE577"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 64.22443567189816,
+          "curve": "CURVE578"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE579"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE580"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE581"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE582"
+        }
+      }
+    },
+    "Soldier_Rig_Index2_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE584"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE585"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE586"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE587"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE588"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE589"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE590"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE591"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE592"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE593"
+        }
+      }
+    },
+    "Soldier_Rig_Thumb1_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 22.560097982454078,
+          "curve": "CURVE595"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE596"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE597"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE598"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE599"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE600"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE601"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE602"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE603"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE604"
+        }
+      }
+    },
+    "Soldier_Rig_Index3_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE606"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE607"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE608"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE609"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE610"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": 0.0,
+          "curve": "CURVE611"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE612"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true,
+          "curve": "CURVE613"
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": 0.0,
+          "curve": "CURVE614"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE615"
+        }
+      }
+    },
+    "Soldier_Rig_FootRoll_CTR_R": {
+      "attrs": {}
+    },
+    "Soldier_Rig_ElbowVectorIK_CTR_R": {
+      "attrs": {
+        "rotateX": {
+          "type": "doubleAngle",
+          "value": -21.513685955494633,
+          "curve": "CURVE617"
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE618"
+        },
+        "translateX": {
+          "type": "doubleLinear",
+          "value": 16.45939729508737,
+          "curve": "CURVE619"
+        },
+        "translateY": {
+          "type": "doubleLinear",
+          "value": -23.854540607518544,
+          "curve": "CURVE620"
+        },
+        "rotateY": {
+          "type": "doubleAngle",
+          "value": 62.84984451997637,
+          "curve": "CURVE621"
+        },
+        "rotateZ": {
+          "type": "doubleAngle",
+          "value": -146.57237418085097,
+          "curve": "CURVE622"
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE623"
+        },
+        "visibility": {
+          "type": "bool",
+          "value": true
+        },
+        "translateZ": {
+          "type": "doubleLinear",
+          "value": -5.118758650223441,
+          "curve": "CURVE624"
+        },
+        "scaleX": {
+          "type": "double",
+          "value": 1.0,
+          "curve": "CURVE625"
+        }
+      }
+    }
+  }
+}

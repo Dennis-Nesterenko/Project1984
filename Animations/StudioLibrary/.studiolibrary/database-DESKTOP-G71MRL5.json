@@ -1,0 +1,236 @@
+{
+    "../../Locomotion": {
+        "name": "Locomotion",
+        "path": "../../Locomotion",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "StudioLibrary",
+        "modified": 1723617969.9708798,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Locomotion/Dive.anim": {
+        "name": "Dive.anim",
+        "path": "../../Locomotion/Dive.anim",
+        "type": ".anim",
+        "folder": "../../Locomotion",
+        "category": "Locomotion",
+        "modified": 1726629547.8503737,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Locomotion/Prone_Rotate.anim": {
+        "name": "Prone_Rotate.anim",
+        "path": "../../Locomotion/Prone_Rotate.anim",
+        "type": ".anim",
+        "folder": "../../Locomotion",
+        "category": "Locomotion",
+        "modified": 1724911478.1586123,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Locomotion/Root.anim": {
+        "name": "Root.anim",
+        "path": "../../Locomotion/Root.anim",
+        "type": ".anim",
+        "folder": "../../Locomotion",
+        "category": "Locomotion",
+        "modified": 1723618633.7756858,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Poses": {
+        "name": "Poses",
+        "path": "../../Poses",
+        "type": "Folder",
+        "folder": "../..",
+        "category": "StudioLibrary",
+        "modified": 1724873683.0806468,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "../../Poses/Crouch.anim": {
+        "name": "Crouch.anim",
+        "path": "../../Poses/Crouch.anim",
+        "type": ".anim",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1728273354.5117757,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Poses/Idle_Rifle.pose": {
+        "name": "Idle_Rifle.pose",
+        "path": "../../Poses/Idle_Rifle.pose",
+        "type": ".pose",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1726627646.950277,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Poses/Leaning.anim": {
+        "name": "Leaning.anim",
+        "path": "../../Poses/Leaning.anim",
+        "type": ".anim",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1728272808.9516463,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Poses/Prone_Back.pose": {
+        "name": "Prone_Back.pose",
+        "path": "../../Poses/Prone_Back.pose",
+        "type": ".pose",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1725305335.9140842,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Poses/Prone_East.pose": {
+        "name": "Prone_East.pose",
+        "path": "../../Poses/Prone_East.pose",
+        "type": ".pose",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1725305351.5082972,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Poses/Prone_North1.pose": {
+        "name": "Prone_North1.pose",
+        "path": "../../Poses/Prone_North1.pose",
+        "type": ".pose",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1725305289.1465027,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Poses/Prone_West.pose": {
+        "name": "Prone_West.pose",
+        "path": "../../Poses/Prone_West.pose",
+        "type": ".pose",
+        "folder": "../../Poses",
+        "category": "Poses",
+        "modified": 1725305310.7076824,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Crouch_Rifle (2).pose": {
+        "name": "Crouch_Rifle (2).pose",
+        "path": "../../Trash/Crouch_Rifle (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1728273046.323678,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Crouch_Rifle.pose": {
+        "name": "Crouch_Rifle.pose",
+        "path": "../../Trash/Crouch_Rifle.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1726629672.5860198,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Crouching.pose": {
+        "name": "Crouching.pose",
+        "path": "../../Trash/Crouching.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1728273141.8338647,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Dive (2).anim": {
+        "name": "Dive (2).anim",
+        "path": "../../Trash/Dive (2).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1726103259.6166015,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Dive_Set.anim": {
+        "name": "Dive_Set.anim",
+        "path": "../../Trash/Dive_Set.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1723617980.4288883,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Idle_Rifle (2).pose": {
+        "name": "Idle_Rifle (2).pose",
+        "path": "../../Trash/Idle_Rifle (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1726627546.509878,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Idle_Rifle.pose": {
+        "name": "Idle_Rifle.pose",
+        "path": "../../Trash/Idle_Rifle.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1726627411.9070113,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Leaning (2).anim": {
+        "name": "Leaning (2).anim",
+        "path": "../../Trash/Leaning (2).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1728264804.1483114,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Leaning (3).anim": {
+        "name": "Leaning (3).anim",
+        "path": "../../Trash/Leaning (3).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1728272338.5882869,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Leaning (4).anim": {
+        "name": "Leaning (4).anim",
+        "path": "../../Trash/Leaning (4).anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1728272484.1563847,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
+    "../../Trash/Leaning.anim": {
+        "name": "Leaning.anim",
+        "path": "../../Trash/Leaning.anim",
+        "type": ".anim",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1725405815.1201203,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Prone (2).pose": {
+        "name": "Prone (2).pose",
+        "path": "../../Trash/Prone (2).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1724873928.661843,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    },
+    "../../Trash/Prone (3).pose": {
+        "name": "Prone (3).pose",
+        "path": "../../Trash/Prone (3).pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1725074280.9180367,
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    },
+    "../../Trash/Prone.pose": {
+        "name": "Prone.pose",
+        "path": "../../Trash/Prone.pose",
+        "type": ".pose",
+        "folder": "../../Trash",
+        "category": "Trash",
+        "modified": 1724873714.3428187,
+        "__class__": "studiolibrary.libraryitem.LibraryItem"
+    }
+}

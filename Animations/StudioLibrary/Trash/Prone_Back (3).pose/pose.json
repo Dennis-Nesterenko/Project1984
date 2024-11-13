@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "description": "",
+    "user": "Work",
+    "ctime": "1725845488",
+    "version": "1.0.0",
+    "references": [
+      {
+        "filename": "E:/OneDrive/Projects/Work/Wet Work/Character Rig/Soldier_Rig.mb",
+        "unresolved": "E:/OneDrive/Projects/Work/Wet Work/Character Rig/Soldier_Rig.mb",
+        "namespace": "Soldier_Rig",
+        "node": "Soldier_RigRN"
+      }
+    ],
+    "mayaVersion": "2023",
+    "mayaSceneFile": ""
+  }
+,
+  "objects": {
+    "Soldier_Rig_RenderCam": {
+      "attrs": {
+        "scaleX": {
+          "type": "double",
+          "value": 93.53561453416071
+        },
+        "visibility": {
+          "type": "bool",
+          "value": false
+        },
+        "scaleY": {
+          "type": "double",
+          "value": 93.53561453416071
+        },
+        "scaleZ": {
+          "type": "double",
+          "value": 93.53561453416071
+        }
+      }
+    }
+  }
+}
