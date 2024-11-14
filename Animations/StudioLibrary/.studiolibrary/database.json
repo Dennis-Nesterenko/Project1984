@@ -35,6 +35,15 @@
         "modified": 1731392546.9640455,
         "__class__": "studiolibrarymaya.animitem.AnimItem"
     },
+    "../../Locomotion/ProneSet.anim": {
+        "name": "ProneSet.anim",
+        "path": "../../Locomotion/ProneSet.anim",
+        "type": ".anim",
+        "folder": "../../Locomotion",
+        "category": "Locomotion",
+        "modified": 1731621525.2451909,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    },
     "../../Locomotion/Prone_Rotate.anim": {
         "name": "Prone_Rotate.anim",
         "path": "../../Locomotion/Prone_Rotate.anim",
@@ -141,7 +150,8 @@
         "folder": "../..",
         "category": "StudioLibrary",
         "modified": 1729825266.8699808,
-        "__class__": "studiolibrary.folderitem.FolderItem"
+        "__class__": "studiolibrary.folderitem.FolderItem",
+        "icon": "trash.svg"
     },
     "../../Trash/Crouch_Rifle (2).pose": {
         "name": "Crouch_Rifle (2).pose",
