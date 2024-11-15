@@ -1,0 +1,202 @@
+{
+    "timeBookmarks": [
+        {
+            "colorIndex": 7,
+            "endFrame": 7,
+            "name": "ProneRotate_NW",
+            "startFrame": 0
+        },
+        {
+            "colorIndex": 0,
+            "endFrame": 9,
+            "name": "ProneStance_WW",
+            "startFrame": 7
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 16,
+            "name": "ProneRotate_WS",
+            "startFrame": 9
+        },
+        {
+            "colorIndex": 0,
+            "endFrame": 18,
+            "name": "ProneStance_SS",
+            "startFrame": 16
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 25,
+            "name": "ProneRotate_SE",
+            "startFrame": 18
+        },
+        {
+            "colorIndex": 0,
+            "endFrame": 27,
+            "name": "ProneStance_EE",
+            "startFrame": 25
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 34,
+            "name": "ProneRotate_EN",
+            "startFrame": 27
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 50,
+            "name": "ProneCrawlStart_W",
+            "startFrame": 40
+        },
+        {
+            "colorIndex": 16,
+            "endFrame": 70,
+            "name": "ProneCrawlLoop_W",
+            "startFrame": 50
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 80,
+            "name": "ProneCrawlEnd_W",
+            "startFrame": 70
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 100,
+            "name": "ProneCrawlStart_E",
+            "startFrame": 90
+        },
+        {
+            "colorIndex": 16,
+            "endFrame": 120,
+            "name": "ProneCrawlLoop_E",
+            "startFrame": 100
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 130,
+            "name": "ProneCrawlEnd_E",
+            "startFrame": 120
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 150,
+            "name": "ProneCrawlStart_N",
+            "startFrame": 140
+        },
+        {
+            "colorIndex": 16,
+            "endFrame": 170,
+            "name": "ProneCrawlLoop_N",
+            "startFrame": 150
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 180,
+            "name": "ProneCrawlEnd_N",
+            "startFrame": 170
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 205,
+            "name": "ProneCrawlStart_S",
+            "startFrame": 195
+        },
+        {
+            "colorIndex": 16,
+            "endFrame": 225,
+            "name": "ProneCrawlLoop_S",
+            "startFrame": 205
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 235,
+            "name": "ProneCrawlEnd_S",
+            "startFrame": 225
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 265,
+            "name": "Prone2Back",
+            "startFrame": 245
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 285,
+            "name": "BackCrawlW_Start",
+            "startFrame": 275
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 305,
+            "name": "BackCrawlW_Loop",
+            "startFrame": 285
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 315,
+            "name": "BackCrawlW_End",
+            "startFrame": 305
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 335,
+            "name": "BackCrawlE_Start",
+            "startFrame": 325
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 355,
+            "name": "BackCrawlE_Loop",
+            "startFrame": 335
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 365,
+            "name": "BackCrawlE_End",
+            "startFrame": 355
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 385,
+            "name": "BackCrawlN_Start",
+            "startFrame": 375
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 405,
+            "name": "BackCrawlN_Loop",
+            "startFrame": 385
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 415,
+            "name": "BackCrawlN_End",
+            "startFrame": 405
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 440,
+            "name": "BackCrawlS_Start",
+            "startFrame": 430
+        },
+        {
+            "colorIndex": 22,
+            "endFrame": 460,
+            "name": "BackCrawlS_Loop",
+            "startFrame": 440
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 470,
+            "name": "BackCrawlS_End",
+            "startFrame": 460
+        },
+        {
+            "colorIndex": 7,
+            "endFrame": 505,
+            "name": "Back2Prone",
+            "startFrame": 485
+        }
+    ]
+}
